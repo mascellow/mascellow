@@ -1,8 +1,9 @@
 <h1>#Mascellow</h1>
 
 <h3>#Sobre mim.</h3>
-- 🤖 Olá, meu nome é Marcelo. Sou um entusiasta da tecnologia, apaixonado por suas inovações, criações e histórias. Estou sempre à procura de novidades dentro da área de programação. | Hello, my name is Marcelo. I’m a technology enthusiast, passionate about its innovations, creations, and stories. I’m always looking for new developments in the programming field.<br>
 - 💻 Desenvolvedor Full Stack | Full Stack Developer<br>
+- 🤖 Olá, meu nome é Marcelo. Sou um entusiasta da tecnologia, apaixonado por suas inovações, criações e histórias. Estou sempre à procura de novidades dentro da área de programação. | Hello, my name is Marcelo. I’m a technology enthusiast, passionate about its innovations, creations, and stories. I’m always looking for new developments in the programming field.<br>
+
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
